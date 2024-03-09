@@ -34,3 +34,6 @@ while a < 10:
 print(l)
 for i in range(-10, 40):
     print(1)
+
+import functions
+functions.Print('Daniil', 15)
